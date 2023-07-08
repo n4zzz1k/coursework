@@ -1,0 +1,5 @@
+[
+  "test.py::test_format_operation_date",
+  "test.py::test_mask_account_number",
+  "test.py::test_mask_card_number"
+]
